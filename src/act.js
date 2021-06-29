@@ -26,7 +26,6 @@ var a  = window.document.getElementById('bt1')
                     tb.appendChild(item)
                 }
             }
-            
         }
         function down(){
             
